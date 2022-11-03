@@ -1,2 +1,1 @@
-# Insertion-Sort-Project
-Insertion Sort Project
+# Kodluyoruz-İlk-Repo
